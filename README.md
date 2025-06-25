@@ -37,5 +37,7 @@ Each criterion increases the strength score. Based on the score, it displays:
 
 Improvement tips are shown dynamically if the password is weak or medium.
 
+---
+
 🛡️ Why It Matters
 This is a beginner-friendly project with real-world value. It introduces key concepts in cybersecurity and user input validation, helping raise awareness of safe password creation — aligned with best practices from OWASP and NIST.
